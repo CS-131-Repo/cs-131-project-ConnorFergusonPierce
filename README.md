@@ -6,19 +6,13 @@
 
 ## FAILURE TO FILL OUT THE INFORMATION BELOW CORRECTLY WILL CAUSE POINTS TO BE DEDUCTED FROM YOUR ASSIGNMENT.
 
-## Student Name  : 
+## Student Name  : Connor Ferguson
 
-## Student ID    : 
+## Student ID    : 900026317
 
-## Student Email : 
+## Student Email : ferguscd84774315@student.laccd.edu
 
 ## Purpose of Repository
 
-The Purpose of this Repository is to study a specific intrest related to this course, apply that priciple to solve a problem, then present. We can use this page to upload our work. In order to keep things organized I would suggest creating your own folder for a specific topic and working with others in that directory(folder) if you want to work on that topic. I invite anyone who has worked with github before to assist if you know best practices when it comes to colaboration.
-
-1. Create a new branch for each new assignment. The name of the branch will be chosen by you but should be related to the assignment.
-2. Complete all the requirements for each assignment.
-3. Push all completed code to the branch.
-4. Merge completed code back into the master branch.
-
-If you need any help, contact me via email at zamoraae4572@student.laccd.edu, via Canvas or Discord (zruiz95) 
+This is a repository for my CS131 Project, Hash Functions & The Birthday Paradox (https://www.youtube.com/watch?v=eDWPKI3gc30)
+I've included all the cpp files shown in my presentation here, along with my powerpoint slides.
